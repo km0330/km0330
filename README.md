@@ -1,4 +1,8 @@
-## Hi there 👋
+## profile
+- name : 김민서  
+- age : 21(20)  
+- Yeungnam Uni. Stat  
+- python, C, Java  Studying
 
 <!--
 **km0330/km0330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
