@@ -1,7 +1,7 @@
 ## profile
 - name : 김민서  
 - age : 21(20)  
-- Yeungnam Uni. Stat  
+- Yeungnam Univ. Stat  
 - python, C, Java  Studying
 
 <!--
